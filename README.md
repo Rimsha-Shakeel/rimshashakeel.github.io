@@ -1,6 +1,14 @@
-# 👩‍💻 Rimsha Shakeel
+# Hi 👋 I'm Rimsha Shakeel
+
+🎓 BSCS Student at FJWU  
+💻 Passionate about Programming & Digital Logic  
+🚀 Currently learning AI & Operating Systems  
 
 **BSCS Student | Programmer | Digital Logic Enthusiast**
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![C++](https://img.shields.io/badge/C++-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 ---
 
